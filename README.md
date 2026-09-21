@@ -1,4 +1,4 @@
-# Boyang Wang
+# Beyond Win
 
 Personal homepage: https://lolerpanda.github.io/
 
